@@ -1,0 +1,8 @@
+C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\bin\Debug\ExercicioProfRomulo.ValoresPares.exe.config
+C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\bin\Debug\ExercicioProfRomulo.ValoresPares.exe
+C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\bin\Debug\ExercicioProfRomulo.ValoresPares.pdb
+C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.exe
+C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.pdb
