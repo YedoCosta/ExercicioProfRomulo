@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.EscolinhaTictic\bin\Debug\ExercicioProfRomulo.EscolinhaTictic.exe.config
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.EscolinhaTictic\bin\Debug\ExercicioProfRomulo.EscolinhaTictic.exe
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.EscolinhaTictic\bin\Debug\ExercicioProfRomulo.EscolinhaTictic.pdb
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.EscolinhaTictic\obj\Debug\ExercicioProfRomulo.EscolinhaTictic.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.EscolinhaTictic\obj\Debug\ExercicioProfRomulo.EscolinhaTictic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.EscolinhaTictic\obj\Debug\ExercicioProfRomulo.EscolinhaTictic.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.EscolinhaTictic\obj\Debug\ExercicioProfRomulo.EscolinhaTictic.exe
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.EscolinhaTictic\obj\Debug\ExercicioProfRomulo.EscolinhaTictic.pdb
