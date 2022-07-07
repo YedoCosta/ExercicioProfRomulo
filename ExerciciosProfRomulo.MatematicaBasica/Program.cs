@@ -28,7 +28,37 @@ namespace ExerciciosProfRomulo.MatematicaBasica
             soma = n1 + n2;
             Console.WriteLine($" A soma é: {soma}");
             Console.ReadLine();
-            
+
+            //===================== imprime numeros pares, impares e divisiveis por 5=================
+            /*
+            int ctc = 0;
+
+            while (ctc < 100)
+            {
+                ctc++;
+                int mod = ctc % 2;
+                int mod5 = ctc % 5;
+
+                if (mod == 0)
+                {
+                    Console.WriteLine($"{ctc} É número par");
+
+                }
+                else
+                {
+                    Console.WriteLine($"==========> {ctc} É número impar");
+                }
+
+                if (mod5 == 0)
+                {
+                    Console.WriteLine($"======================> {ctc} É divisível por 5");
+
+                }
+
+
+            }
+            Console.ReadKey();
+            */
         }
     }
 }
