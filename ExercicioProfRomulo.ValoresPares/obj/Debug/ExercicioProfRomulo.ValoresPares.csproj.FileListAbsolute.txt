@@ -6,3 +6,11 @@ C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.V
 C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.csproj.CoreCompileInputs.cache
 C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.exe
 C:\Users\UltraHP\Documents\Vscommunity\ExercicioProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.pdb
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.ValoresPares\bin\Debug\ExercicioProfRomulo.ValoresPares.exe.config
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.ValoresPares\bin\Debug\ExercicioProfRomulo.ValoresPares.exe
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.ValoresPares\bin\Debug\ExercicioProfRomulo.ValoresPares.pdb
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.exe
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulo.ValoresPares\obj\Debug\ExercicioProfRomulo.ValoresPares.pdb

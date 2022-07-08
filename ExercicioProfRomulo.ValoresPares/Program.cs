@@ -9,35 +9,43 @@ namespace ExercicioProfRomulo.ValoresPares
     internal class Program
     {
         static void Main(string[] args)
-        {
-            //===================== Imprime numeros pares  ===============
+        {          
             int ctc = 0;
 
-            while (ctc <= 100)
+            while (ctc <= 99)
             {
                 ctc++;
-                int mod = ctc % 2;
-                int mod5 = ctc % 5;
 
-                if (mod == 0)
+                if (ctc % 2 == 0)
                 {
-                    Console.WriteLine($"{ctc} É número par");
-                  
+                    //===================== Imprime numeros pares  ===============
+                    Console.WriteLine($" {ctc} É número par");                
                 }
                 else
                 {
+                    //===================== Imprime numeros impares  ===============
                     Console.WriteLine($"==========> {ctc} É número impar");
                 }
 
-                if (mod5 == 0)
+                if (ctc % 5 == 0)
                 {
+                    //===================== Imprime numeros divisíveis por 5  ===============
                     Console.WriteLine($"======================> {ctc} É divisível por 5");
-
                 }
-
-
             }
+
+            ctc --;
+            Console.WriteLine(ctc);
+            ctc *= 2;
+            Console.WriteLine(ctc);
+
+            ctc ++;
+            Console.WriteLine(ctc);
+            ctc /= 2;
+            Console.WriteLine(ctc);
+
             Console.ReadKey();
+
         }
     }
 }
