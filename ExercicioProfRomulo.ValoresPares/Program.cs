@@ -19,7 +19,8 @@ namespace ExercicioProfRomulo.ValoresPares
                 if (ctc % 2 == 0)
                 {
                     //===================== Imprime numeros pares  ===============
-                    Console.WriteLine($" {ctc} É número par");                
+                    Console.WriteLine($"" +
+                        $" {ctc} É número par");                
                 }
                 else
                 {

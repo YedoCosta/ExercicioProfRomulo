@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulto.ExercicioSete\obj\Debug\ExercicioProfRomulto.ExercicioSete.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulto.ExercicioSete\obj\Debug\ExercicioProfRomulto.ExercicioSete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulto.ExercicioSete\obj\Debug\ExercicioProfRomulto.ExercicioSete.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulto.ExercicioSete\bin\Debug\ExercicioProfRomulto.ExercicioSete.exe.config
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulto.ExercicioSete\bin\Debug\ExercicioProfRomulto.ExercicioSete.exe
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulto.ExercicioSete\bin\Debug\ExercicioProfRomulto.ExercicioSete.pdb
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulto.ExercicioSete\obj\Debug\ExercicioProfRomulto.ExercicioSete.exe
+C:\Users\Aluno\Documents\VS Comunity\ExerciciosProfRomulo\ExercicioProfRomulto.ExercicioSete\obj\Debug\ExercicioProfRomulto.ExercicioSete.pdb
